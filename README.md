@@ -1,3 +1,1 @@
 Visualising JavaScript promises.
-
-Testing
